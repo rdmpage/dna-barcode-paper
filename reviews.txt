@@ -1,0 +1,100 @@
+Dear Rod,
+
+Your article RSTB-2015-0334 entitled "DNA barcoding and taxonomy: dark taxa and dark texts" for publication in the upcoming theme issue of Philosophical Transactions B has now been refereed.
+
+Comments have been received from three reviewers, all of whom were positive (their comments are at the end of this email). They do make some helpful suggestions that would be worth taking on board. I have also been through the ms and agree it is a timely and very well constructed paper.  I have a couple of comments below. I hope you will be able to consider these suggestions and make the appropriate changes within the next 4 weeks. 
+
+
+Editor comments:  
+A) Figure 4 is interesting. But I do think this would be worth you following this up with Sujeevan Ratnasingham (sratnasi@gmail.com), to ensure that the figure represents what is happening. In 2013 GenBank stopped accepting early release submissions from BOLD. This as I understand it was something to do with data owners in BOLD wanting to hold back taxon IDs (until their work was published) and genbank not wanting to accept ‘incomplete’ records. As the iBOL project code was associated with the early release pipeline – no new records are associated with it. That explains the flatlining in 2013 of your redline, and part of the divergence then between BOLD and genbank.  Added to this - I am also not sure that all barcode sequences in genbank ended up with the barcode flag. Given the potential for these discrepancies in how codes have been used on barcode sequences – can I ask you follow up with Sujeevan to make sure it represents the true extent of data sharing. One  obvious check is to see what proportion of the sequences in BOLD have a genbank number.  
+
+B) Page 5: "For example, a researcher with a new sequence can discover a lot about that sequence by a simple BLAST search [6], whereas a taxonomist armed only with a name will struggle to get computable data from the name alone."
+The point here is important – but being pedantic, and taken literally, a taxonomist armed with a name can often get computable data by using the name to search for things. Is it worth being more explicit that sequences are data (trace file interpretation aside), whereas the name is an opinion.   
+
+
+To revise your manuscript, log into https://mc.manuscriptcentral.com/issue-ptrsb and enter your Author Center, where you will find your manuscript title listed under "Manuscripts with Decisions." Under "Actions," click on "Create a Revision." Your manuscript number has been appended to denote a revision. You will be unable to make your revisions on the originally submitted version of the manuscript. Once the revised manuscript is prepared, you can upload it and submit it through your Author Center.
+
+When submitting your revised manuscript, you will be able to respond to the comments made by the reviewer(s) in the space provided. You can use this space to document any changes you make to the original manuscript. In order to expedite the processing of the revised manuscript, please be as specific as possible in your response to the reviewer(s). IMPORTANT: Your original files are available to you when you upload your revised manuscript. Please delete any redundant files before completing the submission.
+
+We will need:
+1) Text file of the manuscript (Word document, tex or similar) including an abstract/summary (up to 200 words), 3-6 keywords, references, tables (including captions), and figure captions. This must include any relevant statements on data accessibility, ethics, competing interests, funding etc - please visit http://royalsocietypublishing.org/instructions-authors for full details.
+
+2) Individual high resolution electronic files for each figure in the article (EPS or print-quality PDF preferred (either format should be produced directly from original creation package), or original software format).
+
+3) Any electronic supplementary material (ESM) in final form. Note that the Royal Society will not edit or typeset ESM and it will be hosted as provided, so ensure that you are happy with how it appears. Please ensure that the ESM includes the paper details (authors, title, journal name, doi). Your doi will be 10.1098/rstb.[paper ID in form xxxx.xxxx e.g. 10.1098/rstb.2014.0049].
+
+4) Please ensure that the submitting author has associated their ORCID with their account.
+
+Media summary
+
+Please ensure that you have supplied a short non-technical summary (up to 100 words) of the key findings/importance of your paper. This will be used for marketing purposes (eg press releases). The summary should be prepared using the following guidelines:
+
+*Write simple English: this is intended for the general public. Please explain any essential technical terms in a short and simple manner.
+*Describe (a) the study (b) its key findings and (c) its implications.
+*State why this work is newsworthy, be concise and do not overstate (true 'breakthroughs' are a rarity).
+
+Again, thank you for contributing to this themed issue of Philosophical Transactions B and I look forward to receiving your revision.
+
+best wishes
+pete
+
+
+Dr Peter Hollingsworth
+P.Hollingsworth@rbge.org.uk
+
+Referee reports:
+
+Referee: 1
+
+Comments to Author(s)
+As this is an opinion piece it seems reasonable that there is opinion in it however there are a few points of fact that need clarification before publication. Applying the principle that if I don't get them the intended audience won't either.
+
+1) Figure 1 the X access lacks a scale. I presume it is since the start of the zoological nomenclatural code but other readers won't get this. Also useful to have a sense of scale.
+
+2) Page 6 paragraph starting line 12 and Figure 4 needs clarification. I think the graph shows that size of the BOLD database doesn't appear to be related to the increase of sequences from two searches in GenBank but it isn't adequately explained why BOLD sequences, if deposited in GenBank, would be returned with these two searches. This needs some clearer explanation for people less familiar with GenBank (me). Also - why is this a bad thing? Should BOLD sequences be in GenBank? Should specimens that have been barcode appear in GenBank as having been sequenced in other regions? What linking would be ideal? 
+
+3) Page 7 and Figure 5. "Even if we allow for the import of unidentified BOLD sequences as a one-off event, at present less than half the newly sequenced invertebrate taxa being added to GenBank have been identified to species level." I understand this as the key statement is support of dark taxa? There needs to be clarification around this. The statement itself appears contradictory. As the previous sentences state; if a sequence isn't identified to species level you can't know if it is a new species or not. It could be a change in working practices. You can't therefore go on to count every new code number (that is used in place of a species epithet) as if it were a new species. Some of these specimens are members of existing taxa. Some of them are members of the same, unknown, taxa. Perhaps this isn't the assumption you make in Figure 5 in which case it needs further explanation as that is how it comes over. If it is the assumption made then perhaps a range of possibilities should be presented with the current graph being the extreme.
+
+4) Bonus point: You could cite our paper on specimen identifiers for herbarium specimens 10.13140/2.1.2267.2008 - looks like we are gaining traction with some major collections and a few million specimens identified :)
+
+Referee: 2
+
+Comments to Author(s)
+This is an interesting opinion piece that addresses the huge challenge of linking our genetic data on the natural world, with their phenotypic and physical collections. Traditionally this has been tried using  taxonomic names as connectors, represented in various datasets analysing BOLD, INSDC and resources like the Biodiversity Heritage Library, but Rod points out the failings of this approach. Overall the manuscript makes a number of small and generally novel points but it lacks a particularly strong or singular message. One of the most important points identified by Rod is the gap between the data in BOLD and that in the INSDC databases. Rod's overarching call to action (the concept of developing a "digital dashboard" to assess the accessibility of biodiversity data) is rather underdeveloped. Overall this is an interesting opinion piece but would benefit for a little refinement in the following areas:
+
+1. Rod points out (p.2/17) that sequence data are doubling every 18 months, while the rate of new taxon descriptions is constant. This may be true, but new sequences don't equate to new (or previously unsequenced) taxa. In fact, Rod says this later (p6 line 51). It would be interesting to know what the doubling rate for taxa, not previously sequenced really is. Only then are these figures comparable.
+
+2. Figure 1 is essentially too small to easily read. Please make the figure larger, and preferably also release the underlying data.  The same point regarding the data applies to most of the other figures. Figureshare would be a good repository for releasing these data.
+
+3. For figure 2 it would be interesting to know the cumulative total of taxa with no associated digital identifier. Again, release of the data would be useful here. For example, are there any patterns (ie. certain higher taxa) very poorly represented by digital identifiers?
+
+4. Is it possible to calculate (e.g. from BioStor) the journals with the most names that are not available from BHL? This would allow BHL to target these journals to get the most taxonomic coverage (or, at least, shame them if they refuse to provide open access). 
+
+5. Page 5 line 30, "sights", not sites
+
+5. The formatting issue on p 6 (line 49) needs attention.
+
+6. On p 10, line 17. If we are to make "progress", not process.
+
+Perhaps one of the key conclusions for this is that linking on specimens rather than names would provide a better solution to the overarching problem of how we link these disparate datasets. This is predicated on us providing persistent specimen identifiers, but linking via specimens makes our datasets completely resilient to taxonomic change. 
+
+Referee: 3
+
+Comments to Author(s)
+This opinion piece is much more than such a diminutive classification would suggest: it is rather a dispatch from the very frontier of the quest to work out how we can work with, understand and exploit digital diversity data in the new era of barcoding and online publication. Rod Page has written a clear and challenging piece with which I have no quibbles and only raises a few questions. If these could be fixed / answered before publication it would be good.
+
+The author compares the growth in the sequence databases versus taxonomic names databases. This is a little misplaced, I feel. The sequence databases collect all sequence data, whether 650 bases of COI from a previously unsampled taxon or yet another 3 Gbase from a resequencing project on yet another individual from a Mus musculus subspecies... I would have thought that the better number would have been the growth rate of number of unique leaf-level/species-level txids in INSDC databases. There might also be a comment to be made about the pattern of non-fully-resolved leaf-level taxa in bacterial/prokaryotic versus eukaryotic, and non-multicellular eukaryotic versus Viridiplantae and or Metazoa. I wonder if most of the portmanteau species are bacterial isolates...
+
+One comment is that it would be good to have the raw data (and perhaps scripts/methods) available. The author mentions it was difficult to carry out these analyses (to collect the data from NCBI genbank) and it would be good to explicitly expose the methods so that the work can be verified. For  example: the numbers behind the graphs in figure 1 would be very interesting to have public, as would those for other figures. One method might be via FigShare.
+
+A second comment is that the analysis in Figure 2 seems obscure given the way the data are discussed in the text. Can the author perhaps replot the graph as a proportional deficit for each period, so that the relative contribution of each type 9open/dark) is clearer? A "cumulative number of digital minus nondigital" line could give an overview.
+
+The numbers in the top paragraph of page 6 dont appear to correspond to what BOLD says on its top page/stats (where there are 1.3 M "public" records, 4.6 M records overall, and 437 k "species"). Perhaps the author can check the numbers given in the text.
+
+
+Typos/presentation
+Figures: I found it odd how Yaxis tickmarks/divisions were chosen (9000,18000? Fig2 ; 60000, 120000, 180000, 240000? Fig 1) rather than decimals (why not 10000, 20000? 50000,100000,150000,200000,250000?)? 
+page 5 "if we set our sites lower" -> sights
+page 6 in "Dark taxa" section: a strange set of characters likely remaining from a citation marker
+page 8 "(as occurrence 691832260." -> missing closing ) parenthesis
+page 9 another text string from citation marker? line 5
