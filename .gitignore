@@ -1,0 +1,15 @@
+# Ignore SVN
+
+fig-5/adodb5/.svn
+fig-5/adodb5/contrib/.svn
+fig-5/adodb5/cute_icons_for_site/.svn
+fig-5/adodb5/datadict/.svn
+fig-5/adodb5/docs/.svn
+fig-5/adodb5/drivers/.svn
+fig-5/adodb5/lang/.svn
+fig-5/adodb5/pear/.svn
+fig-5/adodb5/perf/.svn
+fig-5/adodb5/session/.svn
+fig-5/adodb5/session/old/.svn
+fig-5/adodb5/tests/.svn
+fig-5/adodb5/xsl/.svn
