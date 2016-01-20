@@ -384,7 +384,7 @@ for ($j = 1; $j < count($headings); $j++)
 
 
 // time scale
-$ticks = array(1864, 1850, 1900, 1950, 2000, 1923, 2015);
+$ticks = array(1864, 1900, 1950, 2000, 1923, 2015);
 
 foreach ($ticks as $tick)
 {
